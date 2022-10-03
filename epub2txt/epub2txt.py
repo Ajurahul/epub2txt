@@ -6,8 +6,8 @@ from typing import Any, Callable, List, Union
 from pathlib import Path
 
 # for with_func_attrs
-# from typing import Iterable
-from collections import Iterable  # < py38
+from typing import Iterable
+#from collections import Iterable  # < py38
 
 # the rest
 from itertools import zip_longest
